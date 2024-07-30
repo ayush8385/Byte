@@ -1,0 +1,13 @@
+.menuBtnBg {
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  box-shadow: inset 8px 8px 20px rgba(0, 0, 0, 0.331),
+    inset -8px -8px 20px rgba(0, 0, 0, 0.163);
+    cursor: pointer;
+    text-align: center;
+}
+::placeholder {
+  color: red;
+  opacity: 0.1;
+}
